@@ -1,0 +1,4 @@
+[submodule "brain-tec/web"]
+	path = brain-tec/web
+	url = git@github.com:brain-tec/web.git
+	branch = 11.0
