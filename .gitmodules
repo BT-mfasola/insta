@@ -31,3 +31,55 @@
 	path = ext/reporting-engine
 	url = git@github.com:brain-tec/reporting-engine.git
 	branch = 11.0
+[submodule "ext/project"]
+	path = ext/project
+	url = git@github.com:brain-tec/project.git
+	branch = 11.0
+[submodule "ext/product-attribute"]
+	path = ext/product-attribute
+	url = git@github.com:brain-tec/product-attribute.git
+	branch = 11.0
+[submodule "ext/mis-builder"]
+	path = ext/mis-builder
+	url = git@github.com:brain-tec/mis-builder.git
+	branch = 11.0
+[submodule "ext/sale-workflow"]
+	path = ext/sale-workflow
+	url = git@github.com:brain-tec/sale-workflow.git
+	branch = 11.0
+[submodule "ext/purchase-workflow"]
+	path = ext/purchase-workflow
+	url = git@github.com:brain-tec/purchase-workflow.git
+	branch = 11.0
+[submodule "ext/website"]
+	path = ext/website
+	url = git@github.com:brain-tec/website.git
+	branch = 11.0
+[submodule "ext/stock-logistics-workflow"]
+	path = ext/stock-logistics-workflow
+	url = git@github.com:brain-tec/stock-logistics-workflow.git
+	branch = 11.0
+[submodule "ext/carrier-delivery"]
+	path = ext/carrier-delivery
+	url = git@github.com:brain-tec/carrier-delivery.git
+	branch = 11.0
+[submodule "ext/intrastat"]
+	path = ext/intrastat
+	url = git@github.com:brain-tec/intrastat.git
+	branch = 11.0
+[submodule "ext/e-commerce"]
+	path = ext/e-commerce
+	url = git@github.com:brain-tec/e-commerce.git
+	branch = 11.0
+[submodule "ext/social"]
+	path = ext/social
+	url = git@github.com:brain-tec/social.git
+	branch = 11.0
+[submodule "ext/stock-logistics-warehouse"]
+	path = ext/stock-logistics-warehouse
+	url = git@github.com:brain-tec/stock-logistics-warehouse.git
+	branch = 11.0
+[submodule "ext/queue"]
+	path = ext/queue
+	url = git@github.com:brain-tec/queue.git
+	branch = 11.0
