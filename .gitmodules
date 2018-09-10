@@ -7,3 +7,27 @@
 	path = brain-tec/server-ux
 	url = git@github.com:brain-tec/server-ux.git
 	branch = 11.0
+[submodule "ext/l10n-switzerland"]
+	path = ext/l10n-switzerland
+	url = git@github.com:brain-tec/l10n-switzerland.git
+	branch = 11.0
+[submodule "ext/bank-payment"]
+	path = ext/bank-payment
+	url = git@github.com:brain-tec/bank-payment.git
+	branch = 11.0
+[submodule "ext/bank-statement-import"]
+	path = ext/bank-statement-import
+	url = git@github.com:brain-tec/bank-statement-import.git
+	branch = 11.0
+[submodule "ext/account-financial-reporting"]
+	path = ext/account-financial-reporting
+	url = git@github.com:brain-tec/account-financial-reporting.git
+	branch = 11.0
+[submodule "ext/partner-contact"]
+	path = ext/partner-contact
+	url = git@github.com:brain-tec/partner-contact.git
+	branch = 11.0
+[submodule "ext/reporting-engine"]
+	path = ext/reporting-engine
+	url = git@github.com:brain-tec/reporting-engine.git
+	branch = 11.0
