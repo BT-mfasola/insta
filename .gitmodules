@@ -1,0 +1,60 @@
+[submodule "ext/web"]
+	path = ext/web
+	url = git@github.com:brain-tec/web.git
+	branch = 12.0
+[submodule "ext/server-tools"]
+	path = ext/server-tools
+	url = git@github.com:brain-tec/server-tools.git
+	branch = 12.0
+[submodule "ext/server-ux"]
+	path = ext/server-ux
+	url = git@github.com:brain-tec/server-ux.git
+	branch = 12.0
+[submodule "ext/server-auth"]
+	path = ext/server-auth
+	url = git@github.com:brain-tec/server-auth.git
+	branch = 12.0
+[submodule "ext/stock-logistics-workflow"]
+	path = ext/stock-logistics-workflow
+	url = git@github.com:brain-tec/stock-logistics-workflow.git
+	branch = 12.0
+[submodule "ext/stock-logistics-warehouse"]
+	path = ext/stock-logistics-warehouse
+	url = git@github.com:brain-tec/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "ext/sale-workflow"]
+	path = ext/sale-workflow
+	url = git@github.com:brain-tec/sale-workflow.git
+	branch = 12.0
+[submodule "ext/purchase-workflow"]
+	path = ext/purchase-workflow
+	url = git@github.com:brain-tec/purchase-workflow.git
+	branch = 12.0
+[submodule "ext/partner-contact"]
+	path = ext/partner-contact
+	url = git@github.com:brain-tec/partner-contact.git
+	branch = 12.0
+[submodule "ext/product-attribute"]
+	path = ext/product-attribute
+	url = git@github.com:brain-tec/product-attribute.git
+	branch = 12.0
+[submodule "ext/bank-statement-import"]
+	path = ext/bank-statement-import
+	url = git@github.com:brain-tec/bank-statement-import.git
+	branch = 12.0
+[submodule "ext/account-invoicing"]
+	path = ext/account-invoicing
+	url = git@github.com:brain-tec/account-invoicing.git
+	branch = 12.0
+[submodule "ext/project"]
+	path = ext/project
+	url = git@github.com:brain-tec/project.git
+	branch = 12.0
+[submodule "ext/l10n-switzerland"]
+	path = ext/l10n-switzerland
+	url = git@github.com:brain-tec/l10n-switzerland.git
+	branch = 12.0
+[submodule "ext/connector"]
+	path = ext/connector
+	url = git@github.com:brain-tec/connector.git
+	branch = 12.0
