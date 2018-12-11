@@ -10,10 +10,6 @@
 	path = ext/server-ux
 	url = git@github.com:brain-tec/server-ux.git
 	branch = 12.0
-[submodule "ext/server-auth"]
-	path = ext/server-auth
-	url = git@github.com:brain-tec/server-auth.git
-	branch = 12.0
 [submodule "ext/stock-logistics-workflow"]
 	path = ext/stock-logistics-workflow
 	url = git@github.com:brain-tec/stock-logistics-workflow.git
